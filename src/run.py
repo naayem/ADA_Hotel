@@ -1,0 +1,2 @@
+import pytrends
+pytrends.__doc__
